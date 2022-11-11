@@ -1,0 +1,15 @@
+/Users/momo/Projects/Exo/bin/Debug/net6.0/Exo
+/Users/momo/Projects/Exo/bin/Debug/net6.0/Exo.deps.json
+/Users/momo/Projects/Exo/bin/Debug/net6.0/Exo.runtimeconfig.json
+/Users/momo/Projects/Exo/bin/Debug/net6.0/Exo.dll
+/Users/momo/Projects/Exo/bin/Debug/net6.0/Exo.pdb
+/Users/momo/Projects/Exo/obj/Debug/net6.0/Exo.csproj.AssemblyReference.cache
+/Users/momo/Projects/Exo/obj/Debug/net6.0/Exo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/momo/Projects/Exo/obj/Debug/net6.0/Exo.AssemblyInfoInputs.cache
+/Users/momo/Projects/Exo/obj/Debug/net6.0/Exo.AssemblyInfo.cs
+/Users/momo/Projects/Exo/obj/Debug/net6.0/Exo.csproj.CoreCompileInputs.cache
+/Users/momo/Projects/Exo/obj/Debug/net6.0/Exo.dll
+/Users/momo/Projects/Exo/obj/Debug/net6.0/refint/Exo.dll
+/Users/momo/Projects/Exo/obj/Debug/net6.0/Exo.pdb
+/Users/momo/Projects/Exo/obj/Debug/net6.0/Exo.genruntimeconfig.cache
+/Users/momo/Projects/Exo/obj/Debug/net6.0/ref/Exo.dll
